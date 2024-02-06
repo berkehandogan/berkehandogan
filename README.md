@@ -15,9 +15,3 @@
 <a href="https://twitter.com/berkehandgn34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkehandgn34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkehandogan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkehandogan23" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkehandogan&show_icons=true&locale=en&layout=compact" alt="berkehandogan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkehandogan&show_icons=true&locale=en" alt="berkehandogan" /></p>
